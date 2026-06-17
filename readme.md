@@ -348,7 +348,15 @@ Potential future improvements include:
 * Downloadable reports and charts
 
 ---
+# Screenshots
+<img width="4096" height="3072" alt="IMG_20260615_122303312_HDR" src="https://github.com/user-attachments/assets/563f9b26-663e-47bd-9c4e-6aaf7a77f5fa" />
+<img width="4096" height="3072" alt="IMG_20260615_122311798_HDR" src="https://github.com/user-attachments/assets/efbd72d4-c160-4444-a54f-2e5e7928029f" />
+<img width="4096" height="3072" alt="IMG_20260615_122149984_HDR" src="https://github.com/user-attachments/assets/18d31dec-05f2-4bda-8954-0605eb361bd4" />
+<img width="4096" height="3072" alt="IMG_20260615_122101276_HDR" src="https://github.com/user-attachments/assets/27f8ad4c-379f-4843-8fbe-4af4e86e43db" />
 
+
+
+---
 # License
 
 This project is intended for educational, research, and economic analysis purposes.
